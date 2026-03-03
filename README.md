@@ -1,6 +1,6 @@
 # Profit-Performance-Analysis-Excel-Dashboard-Project
 
-_ ** PROJECT OVERVIEW:
+### PROJECT OVERVIEW:
 This project analyzes profit performance across different categories, suppliers, and brands over time.
 The analysis includes monthly profit, Year-To-Date (YTD) profit, and Moving Annual Total (MAT) metrics to evaluate growth trends and market share performance.
 
